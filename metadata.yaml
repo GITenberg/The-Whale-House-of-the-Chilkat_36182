@@ -1,0 +1,29 @@
+_repo: The-Whale-House-of-the-Chilkat_36182
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emmons, George Thornton
+    aliases:
+    - Emmons, G. T. (George Thornton)
+    - Emmons, George T.
+    gutenberg_agent_id: '38121'
+    url: http://www.gutenberg.org/2009/agents/38121
+description: ''
+gutenberg_issued: '2011-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36182'
+  lccn: '17028719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chilkat Indians'
+- !lcc 'GN'
+- !lcsh 'Indians of North America -- Dwellings'
+title: The Whale House of the Chilkat
+url: http://www.gutenberg.org/ebooks/36182
